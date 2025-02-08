@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Alexandre Cunha 
 ##
-  - Técnico de TI pelo Instito Federal do Norte de Minas Gerais - Campus Diamantina - IFNMG
+  - Técnico de TI pelo Instituto Federal do Norte de Minas Gerais - Campus Diamantina - IFNMG
   - Cursando Sistemas de Informação pela Universidade Federal dos Vales Jequitinhonha e Mucuri - UFVJM
 
  ##
