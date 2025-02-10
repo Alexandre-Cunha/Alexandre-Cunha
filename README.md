@@ -1,14 +1,14 @@
 ### Olá! Eu sou o Alexandre Cunha 
 ##
-  - Técnico de TI pelo Instituto Federal do Norte de Minas Gerais - Campus Diamantina - IFNMG
+  - Técnico em TI pelo Instituto Federal do Norte de Minas Gerais - Campus Diamantina - IFNMG
   - Cursando Sistemas de Informação pela Universidade Federal dos Vales Jequitinhonha e Mucuri - UFVJM
 
  ##
 ### 👨‍💻 Linguagens:
 <div style="display: inline_block"><br>
-<img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
- <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+ <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  </div>
 
    ##
